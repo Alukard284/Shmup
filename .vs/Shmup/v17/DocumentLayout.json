@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|d:\\unity\\\u0443\u0440\u043E\u043A\u0438\\shmup\\assets\\__scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\powerup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\SceneManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\__Scripts\\SceneManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\mainmenuinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\mainmenuinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\boundscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\boundscheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\enemy_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\enemy_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\enemy_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\enemy_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\enemy_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\enemy_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\assets\\__scripts\\sheild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A48FD0C-8E37-BC5D-CCF6-899B2AE67381}|Assembly-CSharp.csproj|solutionrelative:assets\\__scripts\\sheild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Hero.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Hero.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Hero.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Hero.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwGAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:46:16.032Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\SceneManager.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\SceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:14:45.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parallax.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Parallax.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Parallax.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Parallax.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Parallax.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:48:18.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenuInput.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\MainMenuInput.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\MainMenuInput.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\MainMenuInput.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\MainMenuInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T16:54:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerUp.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\PowerUp.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\PowerUp.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\PowerUp.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\PowerUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:19:07.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Utils.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Utils.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Utils.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T09:24:06.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Weapon.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Weapon.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Weapon.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Weapon.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwDMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:41:50.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enemy_3.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Enemy_3.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Enemy_3.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Enemy_3.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Enemy_3.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:11:25.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enemy_2.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Enemy_2.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Enemy_2.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Enemy_2.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Enemy_2.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:44:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enemy_1.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Enemy_1.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Enemy_1.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Enemy_1.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Enemy_1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:16:41.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Projectile.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Projectile.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:38:32.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Main.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Main.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowBsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:10:25.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoundsCheck.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\BoundsCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\BoundsCheck.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\BoundsCheck.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\BoundsCheck.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowDUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:33:01.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Enemy.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Enemy.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwF8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:18:58.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sheild.cs",
+              "DocumentMoniker": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Sheild.cs",
+              "RelativeDocumentMoniker": "Assets\\__Scripts\\Sheild.cs",
+              "ToolTip": "D:\\Unity\\\u0423\u0440\u043E\u043A\u0438\\Shmup\\Assets\\__Scripts\\Sheild.cs",
+              "RelativeToolTip": "Assets\\__Scripts\\Sheild.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:01:58.49Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
